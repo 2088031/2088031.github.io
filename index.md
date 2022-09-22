@@ -31,7 +31,8 @@
 # [관련 이미지 & 동영상]
 
 - 이미지  
- [캡처](https://user-images.githubusercontent.com/114118859/191644550-0c832d57-cf43-4ecc-a04d-4778ccb3391e.PNG)>
+ ![캡처](https://user-images.githubusercontent.com/114118859/191645856-1c73588d-4156-454f-bc47-3d6c6141cab4.PNG)
+
 - 동영상
   [![](./img/그림.png)](https://www.youtube.com/watch?v=5xy4n73WOMM)
 
