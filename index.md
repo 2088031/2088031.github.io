@@ -25,8 +25,10 @@
 
 [만들게 된 배경]  
 주로 어두운 분위기 게임을 접하며 만들게 됨
+
 ![2mRMiAnvBa26jl9ABnQU](https://user-images.githubusercontent.com/114118859/194302090-6aa791ca-ef46-43fb-b97a-79f5ae2a061f.jpg)
 (예시: 블러드본)
+
 
 [참신함]
 플레이어가 HP가 적어 회복을 하려 할때 보스는 틈을 주지않고 바로 반응해 공격해옴
