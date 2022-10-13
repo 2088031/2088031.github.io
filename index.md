@@ -25,9 +25,10 @@
 
 - 이미지  
  ![캡처](https://user-images.githubusercontent.com/114118859/191645856-1c73588d-4156-454f-bc47-3d6c6141cab4.PNG)
+ 
+ (예:다크소울3 게임플레이)
 
-- 동영상
-  [![](./img/그림.png)](https://www.youtube.com/watch?v=5xy4n73WOMM)
+
 
 ## 1. 이야기
 
