@@ -46,7 +46,11 @@
 
 -무작정 공격이 아닌 위의 예시 처럼 약점을 만들어 융통성이 있게끔 플레이를 유도함
 
--동영상 예:https://youtu.be/pCvbs3Xj8Ko
+-동영상 예: https://youtu.be/pCvbs3Xj8Ko
+
+-게임의 시스템 및 조작 :![1](https://user-images.githubusercontent.com/114118859/196828979-d27d312a-dbf7-499d-920c-15f1f0d4fd76.PNG)
+![2](https://user-images.githubusercontent.com/114118859/196828992-757e676c-ae33-48d4-b20a-7184aa20952a.PNG)
+
 
 ## 1. 이야기
 
