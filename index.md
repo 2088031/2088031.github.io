@@ -26,11 +26,6 @@
 
 # [관련 이미지 & 동영상]
 
-- 이미지  
- ![캡처](https://user-images.githubusercontent.com/114118859/191645856-1c73588d-4156-454f-bc47-3d6c6141cab4.PNG)
- 
- (예:다크소울3 게임플레이)
-
 # 대표 이미지
 ![132378_133328_3930](https://user-images.githubusercontent.com/114118859/195483430-6440b31c-8adf-4553-9668-4a22d87965ac.jpg)
 (예: 다크소울의 UI)
