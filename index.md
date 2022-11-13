@@ -120,10 +120,14 @@ https://user-images.githubusercontent.com/114118859/200165360-b0a4026e-5253-4cb0
 
 
 ## 4주차
-- 몬스터 및 소모 아이템 구현 및 모션 수정
+- 몬스터 및 맵 UI 구현
 - 요구사항: 유저를 공격하는 몬스터 구현 유저가 근접하면 공격하고 맞으면 플레이어의 체력이 닳도록 제작
-- 체력을 회복할 수 있는 소모품 아이템 제작 과 공격수단의 모션을 더욱 생생하게 수정
-- 플레이어 와 AI UI 제작
+- 플레이어 가 탐험하는 맵을 구성 및 UI 제작
+
+
+https://user-images.githubusercontent.com/114118859/201523357-2908a313-fb72-4845-bb55-d8ff27ece91c.mp4
+
+![DvAc7x](https://user-images.githubusercontent.com/114118859/201523361-e1ab8935-a4ab-4232-8d81-ec511d025fc1.png)
 
 ## 5주차
 - 맵,보스 구현
