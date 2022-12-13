@@ -25,15 +25,17 @@
 # [관련 이미지 & 동영상]
 
 # 대표 이미지
-![132378_133328_3930](https://user-images.githubusercontent.com/114118859/195483430-6440b31c-8adf-4553-9668-4a22d87965ac.jpg)
-(예: 다크소울의 UI)
+![겜프2](https://user-images.githubusercontent.com/114118859/207329843-f02ac17f-41b6-48be-93ae-0adea96b1eeb.png)
+
+(현재 게임의 메인 화면)
 ### 대표 이미지 컨셉
 -위의 이미지 처럼 RPG 방식으로 UI 제작 예정이며 중세 느낌이 나도록 기획
 
 -자신이 어떠한 상태인지 알 수 있도록 간략하게 정리하며 한눈에 볼 수 있도록 제작
 
 # 보스 컨셉
-![14628909_689492_3638](https://user-images.githubusercontent.com/114118859/195484193-75bb12a3-3d52-40b8-8993-618d91d6c25a.jpg)
+![캡처_2022_12_13_18_12_20_187](https://user-images.githubusercontent.com/114118859/207330036-91b1dcf8-5882-4bc6-a734-a4618f6025d8.png)
+
 
 -독특한 보스의 컨셉을 잡아 더욱 게임 분위기에 몰입하도록 유도함
 
